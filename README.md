@@ -1,4 +1,4 @@
-Recent projects:
+Some recent projects:
 
 <table>
   <tr>
