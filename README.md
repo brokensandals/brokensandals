@@ -22,4 +22,8 @@ Some recent projects:
       </ul>
     </td>
   </tr>
+  <tr>
+    <td><a href="https://brokensandals.net/technical/backup-tooling/">Export tooling</a></td>
+    <td>Utilities to help manage exports of data from various services for the purposes of personal backups.</td>
+  </tr>
 </table>
