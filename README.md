@@ -10,6 +10,10 @@ Some of my side-projects:
     <td><img src="https://raw.githubusercontent.com/brokensandals/markheadboard/master/docs/demo.gif" /></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/brokensandals/LousyJob">LousyJob</a>: a very simple background job runner for macOS</td>
+    <td><img src="https://raw.githubusercontent.com/brokensandals/LousyJob/main/docs/screenshot.png" /></td>
+  </tr>
+  <tr>
     <td>Hammerspoon plugins</td>
     <td><a href="https://github.com/brokensandals/CommandCatalog.spoon">manage command palette and hotkeys</a>; <a href="https://github.com/brokensandals/ArrangeWindows.spoon">window management</a>; <a href="https://github.com/brokensandals/MenuChooser.spoon">create command palette from app menu</a>; <a href="https://github.com/brokensandals/TaskHelper.spoon">task execution helper</a></td>
   </tr>
