@@ -1,4 +1,4 @@
-Some recent projects:
+Some of my side-projects:
 
 <table>
   <tr>
@@ -8,6 +8,20 @@ Some recent projects:
   <tr>
     <td><a href="https://github.com/brokensandals/markheadboard">Mark Headboard</a>: view Markdown files as kanban boards in VS Code</td>
     <td><img src="https://raw.githubusercontent.com/brokensandals/markheadboard/master/docs/demo.gif" /></td>
+  </tr>
+  <tr>
+    <td>Hammerspoon plugins</td>
+    <td><a href="https://github.com/brokensandals/CommandCatalog.spoon">manage command palette and hotkeys</a>; <a href="https://github.com/brokensandals/ArrangeWindows.spoon">window management</a>; <a href="https://github.com/brokensandals/MenuChooser.spoon">create command palette from app menu</a>; <a href="https://github.com/brokensandals/TaskHelper.spoon">task execution helper</a></td>
+  </tr>
+  <tr>
+    <td>Pandoc plugins</td>
+    <td>
+      <a href="https://github.com/brokensandals/pandoc-goodreads-writer">writer targeting Goodreads review format</a>; <a href="https://github.com/brokensandals/pandoc-link-relativizer-filter">filter that relativizes links</a>; <a href="https://github.com/brokensandals/pandoc-section-number-filter">filter that adds section numbers</a>
+    </td>
+  </tr>
+  <tr>
+    <td>Obsidian plugin</td>
+    <td><a href="https://github.com/brokensandals/obsidian-auto-image-alt-plugin">populate image alt texts using an LLM</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/brokensandals/notesdir">Notesdir</a>: note management CLI tooling</td>
