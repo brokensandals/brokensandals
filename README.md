@@ -24,8 +24,8 @@ Some of my side-projects:
     </td>
   </tr>
   <tr>
-    <td>Obsidian plugin</td>
-    <td><a href="https://github.com/brokensandals/obsidian-auto-image-alt-plugin">populate image alt texts using an LLM</a></td>
+    <td>Obsidian plugins</td>
+    <td><a href="https://github.com/brokensandals/obsidian-paste-quote-plugin">format and cite quotes when pasting</a>; <a href="https://github.com/brokensandals/obsidian-auto-image-alt-plugin">populate image alt texts using an LLM</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/brokensandals/notesdir">Notesdir</a>: note management CLI tooling</td>
