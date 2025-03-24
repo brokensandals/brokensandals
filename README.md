@@ -10,8 +10,16 @@ Some of my side-projects:
     <td><img src="https://raw.githubusercontent.com/brokensandals/markheadboard/master/docs/demo.gif" /></td>
   </tr>
   <tr>
+    <td>Obsidian plugins for <a href="https://github.com/brokensandals/obsidian-paste-quote-plugin">formatting and citing quotes when pasting</a> and <a href="https://github.com/brokensandals/obsidian-auto-image-alt-plugin">populating image alt texts using an LLM</a></td>
+    <td><img src="https://raw.githubusercontent.com/brokensandals/obsidian-auto-image-alt-plugin/main/docs/demo-step3.png" /></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/brokensandals/LousyJob">LousyJob</a>: a very simple background job runner for macOS</td>
     <td><img src="https://raw.githubusercontent.com/brokensandals/LousyJob/main/docs/screenshot.png" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/brokensandals/basic_ollama_management_ui">Basic Ollama management UI</a></td>
+    <td><img src="https://github.com/brokensandals/basic_ollama_management_ui/raw/main/screenshot.png" /></td>
   </tr>
   <tr>
     <td>Hammerspoon plugins</td>
@@ -22,10 +30,6 @@ Some of my side-projects:
     <td>
       <a href="https://github.com/brokensandals/pandoc-goodreads-writer">writer targeting Goodreads review format</a>; <a href="https://github.com/brokensandals/pandoc-link-relativizer-filter">filter that relativizes links</a>; <a href="https://github.com/brokensandals/pandoc-section-number-filter">filter that adds section numbers</a>
     </td>
-  </tr>
-  <tr>
-    <td>Obsidian plugins</td>
-    <td><a href="https://github.com/brokensandals/obsidian-paste-quote-plugin">format and cite quotes when pasting</a>; <a href="https://github.com/brokensandals/obsidian-auto-image-alt-plugin">populate image alt texts using an LLM</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/brokensandals/notesdir">Notesdir</a>: note management CLI tooling</td>
