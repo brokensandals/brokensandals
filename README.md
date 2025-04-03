@@ -1,4 +1,4 @@
-Some of my side-projects:
+My most substantial work is closed-source (see [resume](https://brokensandals.net/resume/)); these are some side-projects and small utilities I made for myself.
 
 <table>
   <tr>
